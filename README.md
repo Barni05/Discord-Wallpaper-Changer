@@ -1,5 +1,5 @@
 # Discord-Wallpaper-Changer
-This program changes the bacground of Discord within a time interval.
+This program changes the bacground of Discord within a time interval.<br>
 ##Usage
 You need to fill two txt files in order to make this work.<br>
 1. links.txt: you need to give all the links of the images you want to set as background.**(You need to copy the image address, not anything else)**
